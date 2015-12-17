@@ -1,0 +1,6 @@
+{
+    "name": "joel_test",
+    "version": "0.0.1",
+    "description": "Just a little test",
+    "main": "dist/something.js"
+}
